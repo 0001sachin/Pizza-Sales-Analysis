@@ -1,8 +1,3 @@
-https://github.com/0001sachin/Pizza-Sales-Analysis/blob/main/Screenshot%202025-08-06%20165324.png
-
-
-
-
 # 🍕 Pizza Sales Analysis (SQL + Power BI Project)
 
 This repository contains a *Pizza Sales Analysis Project* that combines *SQL Server queries* for data exploration and a *Microsoft Power BI dashboard* for interactive visualization.  
@@ -13,8 +8,8 @@ The focus of this project is on *SQL-based data analysis* while leveraging Power
 )
 
 ---
-#
-[Dashboard Screenshot](https://github.com/0001sachin/Pizza-Sales-Analysis/blob/main/Screenshot%202025-08-06%20165309.png---
+
+[Dashboard Screenshot](https://github.com/0001sachin/Pizza-Sales-Analysis/blob/main/Screenshot%202025-08-06%20165309.png)
 
 ## 📌 Project Overview
 
