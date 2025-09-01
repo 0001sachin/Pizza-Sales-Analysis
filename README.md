@@ -8,8 +8,9 @@ The focus of this project is on *SQL-based data analysis* while leveraging Power
 )
 
 ---
+![Dashboard Screenshot](https://github.com/0001sachin/Pizza-Sales-Analysis/blob/main/Screenshot%202025-08-06%20165309.png
+)
 
-[Dashboard Screenshot](https://github.com/0001sachin/Pizza-Sales-Analysis/blob/main/Screenshot%202025-08-06%20165309.png)
 
 ## 📌 Project Overview
 
